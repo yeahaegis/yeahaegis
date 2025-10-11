@@ -1,4 +1,4 @@
-# 👋 I'm Aegis!
+# I'm Aegis!
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/35/33/cf/3533cf75fe2ec00bd66fe4f71359f0f9.gif" alt="awesome gif" height="700"/>
