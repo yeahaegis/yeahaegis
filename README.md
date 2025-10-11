@@ -1,7 +1,9 @@
 # 👋 I'm Aegis!
 
-<h2 align="center">Hey there, I'm <a href="https://github.com/yeahaegis">Aegis</a> 👋</h2>
-<p align="center">🚀 Future AI Engineer | ⚡ Problem Solver | 🧠 Building every day</p>
+<p align="center">
+  <img src="https://i.pinimg.com/originals/b9/08/86/b90886beff7a7664af28e02792674ce7.gif" alt="coding gif" width="480"/>
+</p>
+
 
 🎯 I'm passionate about **coding, algorithms, and building cool projects**.  
 💻 Currently learning **Python**, and exploring **Machine learning**.  
@@ -14,5 +16,3 @@
 ## 📫 Contact
 - Telegram: [@yeahaegis](https://t.me/avvome)
 - Tiktok: [@yeahaegis](https://www.tiktok.com/@whatismystylebro)
-
-
