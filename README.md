@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aegis!
+# 👋 I'm Aegis!
 
 🎯 I'm passionate about **coding, algorithms, and building cool projects**.  
 💻 Currently learning **Python**, and exploring **Machine learning**.  
@@ -12,3 +12,4 @@
 - Telegram: [@yeahaegis](https://t.me/avvome)
 - Tiktok: [@yeahaegis](https://www.tiktok.com/@whatismystylebro)
 
+![Aegis's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeahaegis&show_icons=true&theme=tokyonight)
