@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Aegis!
 
 🎯 I'm passionate about **coding, algorithms, and building cool projects**.  
-💻 Currently learning **C++**, **Python**, and exploring **Machine learning**.  
-🚀 My goal: become a top developer and dont give up
+💻 Currently learning **Python**, and exploring **Machine learning**.  
+🚀 My goal: become a top developer, learn C++ and dont give up :)
 
 ## 🧠 Interests
 - Competitive programming 🏆  
