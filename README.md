@@ -1,19 +1,14 @@
 # 👋 Hi, I'm Aegis!
 
 🎯 I'm passionate about **coding, algorithms, and building cool projects**.  
-💻 Currently learning **C++**, **Python**, and exploring **machine learning**.  
-🚀 My goal: become a top-level developer & build impactful products.  
+💻 Currently learning **C++**, **Python**, and exploring **Machine learning**.  
+🚀 My goal: become a top developer and dont give up
 
 ## 🧠 Interests
 - Competitive programming 🏆  
-- AI & neural networks 🤖  
-- Backend development ⚙️  
-- Problem solving and automation ⚡  
+- AI & neural networks 🤖    
 
 ## 📫 Contact
-- Telegram: [@yeahaegis](https://t.me/yeahaegis)
-- Email: yourmail@example.com  
-- GitHub Projects: [github.com/yeahaegis](https://github.com/yeahaegis)
+- Telegram: [@yeahaegis](https://t.me/avvome)
+- Tiktok: [@yeahaegis](https://www.tiktok.com/@whatismystylebro)
 
----
-⭐ Check out my repositories below and feel free to connect!
