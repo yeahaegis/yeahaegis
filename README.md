@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Aegis!
 
-<!--
-**yeahaegis/yeahaegis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 I'm passionate about **coding, algorithms, and building cool projects**.  
+💻 Currently learning **C++**, **Python**, and exploring **machine learning**.  
+🚀 My goal: become a top-level developer & build impactful products.  
 
-Here are some ideas to get you started:
+## 🧠 Interests
+- Competitive programming 🏆  
+- AI & neural networks 🤖  
+- Backend development ⚙️  
+- Problem solving and automation ⚡  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- Telegram: [@yeahaegis](https://t.me/yeahaegis)
+- Email: yourmail@example.com  
+- GitHub Projects: [github.com/yeahaegis](https://github.com/yeahaegis)
+
+---
+⭐ Check out my repositories below and feel free to connect!
