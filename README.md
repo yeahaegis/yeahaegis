@@ -9,9 +9,9 @@
 🚀 My goal: become a top developer, learn C++ and dont give up :)
 
 ## 🧠 Interests
-- Competitive programming 🏆  
-- AI & neural networks 🤖
-- Math 📈
+- Competitive programming
+- AI & neural networks 
+- Math
 
 ## 📫 Contact
 - Telegram: [@yeahaegis](https://t.me/avvome)
